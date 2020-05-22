@@ -1,7 +1,7 @@
 # Computing ideas
 A repository for my hardware and software recommendations.
 
-#Hardware:
+# Hardware:
 
 ## Prebuilts:
 ### [iMac 4K 2017](https://www.apple.com/uk/shop/product/FNDY2B/A/Refurbished-215-inch-iMac-30GHz-quad-core-Intel-Core-i5-with-Retina-4K-display?fnode=cc80a6d3908be3db8b200b428d68e112ec604933edd73dfa2db8e2c7ad8e56049f4ec47448dd7f5703e8f4855f5a8b9dabe210076688c506ada649dcfa83c924808b4e79857249a6d8c24033d8e73eec) 
